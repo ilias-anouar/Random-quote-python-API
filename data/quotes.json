@@ -1,0 +1,2110 @@
+[
+  {
+    "id": 0,
+    "author": "Albert Einstein",
+    "quote": "Imagination is more important than knowledge.",
+    "date": "1929"
+  },
+  {
+    "id": 1,
+    "author": "Maya Angelou",
+    "quote": "I've learned that people will forget what you said, people will forget what you did, but people will never forget how you made them feel.",
+    "date": "1971"
+  },
+  {
+    "id": 2,
+    "author": "Mark Twain",
+    "quote": "The secret of getting ahead is getting started.",
+    "date": "Unknown"
+  },
+  {
+    "id": 3,
+    "author": "Eleanor Roosevelt",
+    "quote": "No one can make you feel inferior without your consent.",
+    "date": "1941"
+  },
+  {
+    "id": 4,
+    "author": "Mahatma Gandhi",
+    "quote": "Be the change that you wish to see in the world.",
+    "date": "1913"
+  },
+  {
+    "id": 5,
+    "author": "Steve Jobs",
+    "quote": "Stay hungry, stay foolish.",
+    "date": "2005"
+  },
+  {
+    "id": 6,
+    "author": "Buddha",
+    "quote": "The mind is everything. What you think you become.",
+    "date": "Unknown"
+  },
+  {
+    "id": 7,
+    "author": "Dr. Seuss",
+    "quote": "Don't cry because it's over, smile because it happened.",
+    "date": "1957"
+  },
+  {
+    "id": 8,
+    "author": "Ralph Waldo Emerson",
+    "quote": "Do not go where the path may lead, go instead where there is no path and leave a trail.",
+    "date": "1877"
+  },
+  {
+    "id": 9,
+    "author": "Nelson Mandela",
+    "quote": "It always seems impossible until it's done.",
+    "date": "1994"
+  },
+  {
+    "id": 10,
+    "author": "Oscar Wilde",
+    "quote": "Be yourself; everyone else is already taken.",
+    "date": "1895"
+  },
+  {
+    "id": 11,
+    "author": "Abraham Lincoln",
+    "quote": "In the end, it's not the years in your life that count. It's the life in your years.",
+    "date": "1862"
+  },
+  {
+    "id": 12,
+    "author": "Helen Keller",
+    "quote": "The best and most beautiful things in the world cannot be seen or even touched - they must be felt with the heart.",
+    "date": "1903"
+  },
+  {
+    "id": 13,
+    "author": "Walt Disney",
+    "quote": "All our dreams can come true, if we have the courage to pursue them.",
+    "date": "1950"
+  },
+  {
+    "id": 14,
+    "author": "William Shakespeare",
+    "quote": "To thine own self be true, and it must follow, as the night the day, thou canst not then be false to any man.",
+    "date": "1600"
+  },
+  {
+    "id": 15,
+    "author": "Martin Luther King Jr.",
+    "quote": "The time is always right to do what is right.",
+    "date": "1963"
+  },
+  {
+    "id": 16,
+    "author": "Coco Chanel",
+    "quote": "The most courageous act is still to think for yourself. Aloud.",
+    "date": "1935"
+  },
+  {
+    "id": 17,
+    "author": "Stephen Hawking",
+    "quote": "Intelligence is the ability to adapt to change.",
+    "date": "Unknown"
+  },
+  {
+    "id": 18,
+    "author": "Leo Tolstoy",
+    "quote": "Everyone thinks of changing the world, but no one thinks of changing himself.",
+    "date": "1869"
+  },
+  {
+    "id": 19,
+    "author": "Vincent Van Gogh",
+    "quote": "I am seeking, I am striving, I am in it with all my heart.",
+    "date": "1885"
+  },
+  {
+    "id": 20,
+    "author": "George Bernard Shaw",
+    "quote": "Life isn't about finding yourself. Life is about creating yourself.",
+    "date": "1903"
+  },
+  {
+    "id": 21,
+    "author": "Pablo Picasso",
+    "quote": "Everything you can imagine is real.",
+    "date": "1923"
+  },
+  {
+    "id": 22,
+    "author": "Friedrich Nietzsche",
+    "quote": "That which does not kill us makes us stronger.",
+    "date": "1888"
+  },
+  {
+    "id": 23,
+    "author": "Anne Frank",
+    "quote": "How wonderful it is that nobody need wait a single moment before starting to improve the world.",
+    "date": "1944"
+  },
+  {
+    "id": 24,
+    "author": "Rumi",
+    "quote": "The wound is the place where the Light enters you.",
+    "date": "Unknown"
+  },
+  {
+    "id": 25,
+    "author": "J.K. Rowling",
+    "quote": "It is our choices, Harry, that show what we truly are, far more than our abilities.",
+    "date": "1998"
+  },
+  {
+    "id": 26,
+    "author": "Mother Teresa",
+    "quote": "Spread love everywhere you go. Let no one ever come to you without leaving happier.",
+    "date": "1979"
+  },
+  {
+    "id": 27,
+    "author": "Henry David Thoreau",
+    "quote": "Go confidently in the direction of your dreams. Live the life you have imagined.",
+    "date": "1854"
+  },
+  {
+    "id": 28,
+    "author": "Winston Churchill",
+    "quote": "Success is not final, failure is not fatal: It is the courage to continue that counts.",
+    "date": "1941"
+  },
+  {
+    "id": 29,
+    "author": "Frida Kahlo",
+    "quote": "Feet, what do I need you for when I have wings to fly?",
+    "date": "Unknown"
+  },
+  {
+    "id": 30,
+    "author": "Dalai Lama",
+    "quote": "Happiness is not something ready made. It comes from your own actions.",
+    "date": "1982"
+  },
+  {
+    "id": 31,
+    "author": "C.S. Lewis",
+    "quote": "You are never too old to set another goal or to dream a new dream.",
+    "date": "1958"
+  },
+  {
+    "id": 32,
+    "author": "Fyodor Dostoevsky",
+    "quote": "The mystery of human existence lies not in just staying alive, but in finding something to live for.",
+    "date": "1869"
+  },
+  {
+    "id": 33,
+    "author": "Walt Whitman",
+    "quote": "Keep your face always toward the sunshine - and shadows will fall behind you.",
+    "date": "1865"
+  },
+  {
+    "id": 34,
+    "author": "John Lennon",
+    "quote": "Life is what happens when you're busy making other plans.",
+    "date": "1980"
+  },
+  {
+    "id": 35,
+    "author": "Rosa Parks",
+    "quote": "I have learned over the years that when one's mind is made up, this diminishes fear.",
+    "date": "1955"
+  },
+  {
+    "id": 36,
+    "author": "Ernest Hemingway",
+    "quote": "The only way to do great work is to love what you do.",
+    "date": "1954"
+  },
+  {
+    "id": 37,
+    "author": "Marcus Aurelius",
+    "quote": "Very little is needed to make a happy life; it is all within yourself, in your way of thinking.",
+    "date": "180"
+  },
+  {
+    "id": 38,
+    "author": "Hermann Hesse",
+    "quote": "Some of us think holding on makes us strong, but sometimes it is letting go.",
+    "date": "1922"
+  },
+  {
+    "id": 39,
+    "author": "J.R.R. Tolkien",
+    "quote": "Not all those who wander are lost.",
+    "date": "1954"
+  },
+  {
+    "id": 40,
+    "author": "Socrates",
+    "quote": "An unexamined life is not worth living.",
+    "date": "399 BC"
+  },
+  {
+    "id": 41,
+    "author": "Plato",
+    "quote": "We can easily forgive a child who is afraid of the dark; the real tragedy of life is when men are afraid of the light.",
+    "date": "Unknown"
+  },
+  {
+    "id": 42,
+    "author": "Emily Dickinson",
+    "quote": "Forever is composed of nows.",
+    "date": "Unknown"
+  },
+  {
+    "id": 43,
+    "author": "Virginia Woolf",
+    "quote": "You cannot find peace by avoiding life.",
+    "date": "1925"
+  },
+  {
+    "id": 44,
+    "author": "James Baldwin",
+    "quote": "Not everything that is faced can be changed, but nothing can be changed until it is faced.",
+    "date": "1963"
+  },
+  {
+    "id": 45,
+    "author": "Haruki Murakami",
+    "quote": "And once the storm is over, you won’t remember how you made it through, how you managed to survive. You won’t even be sure, whether the storm is really over. But one thing is certain. When you come out of the storm, you won’t be the same person who walked in. That’s what this storm’s all about.",
+    "date": "2005"
+  },
+  {
+    "id": 46,
+    "author": "Voltaire",
+    "quote": "Judge a man by his questions rather than his answers.",
+    "date": "1769"
+  },
+  {
+    "id": 47,
+    "author": "Leo Buscaglia",
+    "quote": "Too often we underestimate the power of a touch, a smile, a kind word, a listening ear, an honest compliment, or the smallest act of caring, all of which have the potential to turn a life around.",
+    "date": "1971"
+  },
+  {
+    "id": 48,
+    "author": "Margaret Mead",
+    "quote": "Never doubt that a small group of thoughtful, committed citizens can change the world; indeed, it's the only thing that ever has.",
+    "date": "1970"
+  },
+  {
+    "id": 49,
+    "author": "J.R.R. Tolkien",
+    "quote": "The world is indeed full of peril, and in it there are many dark places; but still there is much that is fair, and though in all lands love is now mingled with grief, it grows perhaps the greater.",
+    "date": "1954"
+  },
+  {
+    "id": 50,
+    "author": "Confucius",
+    "quote": "Our greatest glory is not in never falling, but in rising every time we fall.",
+    "date": "Unknown"
+  },
+  {
+    "id": 51,
+    "author": "Leo Tolstoy",
+    "quote": "If you want to be happy, be.",
+    "date": "1886"
+  },
+  {
+    "id": 52,
+    "author": "Aristotle",
+    "quote": "We are what we repeatedly do. Excellence, then, is not an act, but a habit.",
+    "date": "Unknown"
+  },
+  {
+    "id": 53,
+    "author": "Lao Tzu",
+    "quote": "The journey of a thousand miles begins with one step.",
+    "date": "Unknown"
+  },
+  {
+    "id": 54,
+    "author": "Henry Ford",
+    "quote": "Whether you think you can, or you think you can't--you're right.",
+    "date": "Unknown"
+  },
+  {
+    "id": 55,
+    "author": "Albert Camus",
+    "quote": "In the depth of winter, I finally learned that within me there lay an invincible summer.",
+    "date": "1942"
+  },
+  {
+    "id": 56,
+    "author": "Seneca",
+    "quote": "Luck is what happens when preparation meets opportunity.",
+    "date": "65 AD"
+  },
+  {
+    "id": 57,
+    "author": "Marie Curie",
+    "quote": "Nothing in life is to be feared, it is only to be understood. Now is the time to understand more, so that we may fear less.",
+    "date": "1930"
+  },
+  {
+    "id": 58,
+    "author": "Heraclitus",
+    "quote": "Change is the only constant in life.",
+    "date": "Unknown"
+  },
+  {
+    "id": 59,
+    "author": "Emily Brontë",
+    "quote": "Whatever our souls are made of, his and mine are the same.",
+    "date": "1847"
+  },
+  {
+    "id": 60,
+    "author": "Ralph Waldo Emerson",
+    "quote": "The only way to have a friend is to be one.",
+    "date": "1841"
+  },
+  {
+    "id": 61,
+    "author": "Alan Turing",
+    "quote": "We can only see a short distance ahead, but we can see plenty there that needs to be done.",
+    "date": "1950"
+  },
+  {
+    "id": 62,
+    "author": "Albert Schweitzer",
+    "quote": "Success is not the key to happiness. Happiness is the key to success. If you love what you are doing, you will be successful.",
+    "date": "Unknown"
+  },
+  {
+    "id": 63,
+    "author": "Jane Austen",
+    "quote": "I declare after all there is no enjoyment like reading! How much sooner one tires of any thing than of a book! When I have a house of my own, I shall be miserable if I have not an excellent library.",
+    "date": "1813"
+  },
+  {
+    "id": 64,
+    "author": "Friedrich Nietzsche",
+    "quote": "Without music, life would be a mistake.",
+    "date": "1889"
+  },
+  {
+    "id": 65,
+    "author": "Gautama Buddha",
+    "quote": "Three things cannot be long hidden: the sun, the moon, and the truth.",
+    "date": "Unknown"
+  },
+  {
+    "id": 66,
+    "author": "Khalil Gibran",
+    "quote": "Your pain is the breaking of the shell that encloses your understanding.",
+    "date": "Unknown"
+  },
+  {
+    "id": 67,
+    "author": "H.G. Wells",
+    "quote": "We all have our time machines, don't we. Those that take us back are memories...And those that carry us forward, are dreams.",
+    "date": "1895"
+  },
+  {
+    "id": 68,
+    "author": "Stephen Covey",
+    "quote": "I am not a product of my circumstances. I am a product of my decisions.",
+    "date": "1989"
+  },
+  {
+    "id": 69,
+    "author": "George Orwell",
+    "quote": "The most effective way to destroy people is to deny and obliterate their own understanding of their history.",
+    "date": "1949"
+  },
+  {
+    "id": 70,
+    "author": "Kurt Vonnegut",
+    "quote": "We are what we pretend to be, so we must be careful about what we pretend to be.",
+    "date": "1962"
+  },
+  {
+    "id": 71,
+    "author": "Elie Wiesel",
+    "quote": "The opposite of love is not hate, it's indifference. The opposite of art is not ugliness, it's indifference. The opposite of faith is not heresy, it's indifference. And the opposite of life is not death, it's indifference.",
+    "date": "1956"
+  },
+  {
+    "id": 72,
+    "author": "Arthur C. Clarke",
+    "quote": "The only way to discover the limits of the possible is to go beyond them into the impossible.",
+    "date": "1973"
+  },
+  {
+    "id": 73,
+    "author": "Rabindranath Tagore",
+    "quote": "Let your life lightly dance on the edges of Time like dew on the tip of a leaf.",
+    "date": "Unknown"
+  },
+  {
+    "id": 74,
+    "author": "Simone de Beauvoir",
+    "quote": "I am too intelligent, too demanding, and too resourceful for anyone to be able to take charge of me entirely. No one knows me or loves me completely. I have only myself.",
+    "date": "1954"
+  },
+  {
+    "id": 75,
+    "author": "James Clear",
+    "quote": "You do not rise to the level of your goals. You fall to the level of your systems.",
+    "date": "2018"
+  },
+  {
+    "id": 76,
+    "author": "Neil Gaiman",
+    "quote": "Fairy tales are more than true: not because they tell us that dragons exist, but because they tell us that dragons can be beaten.",
+    "date": "Unknown"
+  },
+  {
+    "id": 77,
+    "author": "Samuel Beckett",
+    "quote": "Ever tried. Ever failed. No matter. Try Again. Fail again. Fail better.",
+    "date": "1983"
+  },
+  {
+    "id": 78,
+    "author": "Jorge Luis Borges",
+    "quote": "I have always imagined that Paradise will be a kind of library.",
+    "date": "Unknown"
+  },
+  {
+    "id": 79,
+    "author": "Carl Sagan",
+    "quote": "Somewhere, something incredible is waiting to be known.",
+    "date": "Unknown"
+  },
+  {
+    "id": 80,
+    "author": "Malala Yousafzai",
+    "quote": "We realize the importance of our voices only when we are silenced.",
+    "date": "2012"
+  },
+  {
+    "id": 81,
+    "author": "T.S. Eliot",
+    "quote": "Only those who will risk going too far can possibly find out how far one can go.",
+    "date": "Unknown"
+  },
+  {
+    "id": 82,
+    "author": "Sylvia Plath",
+    "quote": "I took a deep breath and listened to the old bray of my heart. I am. I am. I am.",
+    "date": "Unknown"
+  },
+  {
+    "id": 83,
+    "author": "Gabriel García Márquez",
+    "quote": "No medicine cures what happiness cannot.",
+    "date": "Unknown"
+  },
+  {
+    "id": 84,
+    "author": "Mae West",
+    "quote": "You only live once, but if you do it right, once is enough.",
+    "date": "Unknown"
+  },
+  {
+    "id": 85,
+    "author": "Martin Luther King Jr.",
+    "quote": "Darkness cannot drive out darkness: only light can do that. Hate cannot drive out hate: only love can do that.",
+    "date": "1957"
+  },
+  {
+    "id": 86,
+    "author": "Oscar Wilde",
+    "quote": "To live is the rarest thing in the world. Most people exist, that is all.",
+    "date": "1895"
+  },
+  {
+    "id": 87,
+    "author": "Toni Morrison",
+    "quote": "If there's a book that you want to read, but it hasn't been written yet, then you must write it.",
+    "date": "Unknown"
+  },
+  {
+    "id": 88,
+    "author": "Napoleon Hill",
+    "quote": "Whatever the mind of man can conceive and believe, it can achieve.",
+    "date": "1937"
+  },
+  {
+    "id": 89,
+    "author": "Charles Darwin",
+    "quote": "It is not the strongest of the species that survive, nor the most intelligent, but the one most responsive to change.",
+    "date": "Unknown"
+  },
+  {
+    "id": 90,
+    "author": "Helen Keller",
+    "quote": "Life is either a daring adventure or nothing at all.",
+    "date": "Unknown"
+  },
+  {
+    "id": 91,
+    "author": "Ernest Hemingway",
+    "quote": "The world breaks everyone, and afterward, some are strong at the broken places.",
+    "date": "1929"
+  },
+  {
+    "id": 92,
+    "author": "Maya Angelou",
+    "quote": "Try to be a rainbow in someone's cloud.",
+    "date": "1977"
+  },
+  {
+    "id": 93,
+    "author": "Marcus Aurelius",
+    "quote": "When you arise in the morning, think of what a precious privilege it is to be alive - to breathe, to think, to enjoy, to love.",
+    "date": "180"
+  },
+  {
+    "id": 94,
+    "author": "Friedrich Nietzsche",
+    "quote": "And those who were seen dancing were thought to be insane by those who could not hear the music.",
+    "date": "1889"
+  },
+  {
+    "id": 95,
+    "author": "Maya Angelou",
+    "quote": "You may not control all the events that happen to you, but you can decide not to be reduced by them.",
+    "date": "1979"
+  },
+  {
+    "id": 96,
+    "author": "Albert Einstein",
+    "quote": "Life is like riding a bicycle. To keep your balance, you must keep moving.",
+    "date": "1930"
+  },
+  {
+    "id": 97,
+    "author": "Plato",
+    "quote": "We can easily forgive a child who is afraid of the dark; the real tragedy of life is when men are afraid of the light.",
+    "date": "Unknown"
+  },
+  {
+    "id": 98,
+    "author": "Heraclitus",
+    "quote": "The only thing that is constant is change.",
+    "date": "Unknown"
+  },
+  {
+    "id": 99,
+    "author": "Walt Disney",
+    "quote": "The way to get started is to quit talking and begin doing.",
+    "date": "Unknown"
+  },
+  {
+    "id": 100,
+    "author": "Eleanor Roosevelt",
+    "quote": "The future belongs to those who believe in the beauty of their dreams.",
+    "date": "Unknown"
+  },
+  {
+    "id": 101,
+    "author": "Vincent Van Gogh",
+    "quote": "I am seeking, I am striving, I am in it with all my heart.",
+    "date": "1888"
+  },
+  {
+    "id": 102,
+    "author": "Fyodor Dostoevsky",
+    "quote": "Above all, don't lie to yourself. The man who lies to himself and listens to his own lie comes to a point that he cannot distinguish the truth within him, or around him, and so loses all respect for himself and for others. And having no respect he ceases to love.",
+    "date": "1866"
+  },
+  {
+    "id": 103,
+    "author": "Ralph Waldo Emerson",
+    "quote": "What lies behind us and what lies before us are tiny matters compared to what lies within us.",
+    "date": "Unknown"
+  },
+  {
+    "id": 104,
+    "author": "Albert Einstein",
+    "quote": "The only source of knowledge is experience.",
+    "date": "1921"
+  },
+  {
+    "id": 105,
+    "author": "Oscar Wilde",
+    "quote": "The truth is rarely pure and never simple.",
+    "date": "1895"
+  },
+  {
+    "id": 106,
+    "author": "Hermann Hesse",
+    "quote": "Some of us think holding on makes us strong, but sometimes it is letting go.",
+    "date": "Unknown"
+  },
+  {
+    "id": 107,
+    "author": "Mark Twain",
+    "quote": "The secret of getting ahead is getting started.",
+    "date": "Unknown"
+  },
+  {
+    "id": 108,
+    "author": "Haruki Murakami",
+    "quote": "Pain is inevitable. Suffering is optional.",
+    "date": "2000"
+  },
+  {
+    "id": 109,
+    "author": "Martin Luther King Jr.",
+    "quote": "Faith is taking the first step even when you don't see the whole staircase.",
+    "date": "1963"
+  },
+  {
+    "id": 110,
+    "author": "Maya Angelou",
+    "quote": "If you don't like something, change it. If you can't change it, change your attitude.",
+    "date": "Unknown"
+  },
+  {
+    "id": 111,
+    "author": "Walt Whitman",
+    "quote": "Keep your face always toward the sunshine - and shadows will fall behind you.",
+    "date": "Unknown"
+  },
+  {
+    "id": 112,
+    "author": "Albert Camus",
+    "quote": "Don't walk behind me; I may not lead. Don't walk in front of me; I may not follow. Just walk beside me and be my friend.",
+    "date": "Unknown"
+  },
+  {
+    "id": 113,
+    "author": "Leo Tolstoy",
+    "quote": "The two most powerful warriors are patience and time.",
+    "date": "Unknown"
+  },
+  {
+    "id": 114,
+    "author": "Helen Keller",
+    "quote": "The only thing worse than being blind is having sight but no vision.",
+    "date": "Unknown"
+  },
+  {
+    "id": 115,
+    "author": "George Bernard Shaw",
+    "quote": "Life isn't about finding yourself. Life is about creating yourself.",
+    "date": "Unknown"
+  },
+  {
+    "id": 116,
+    "author": "Henry David Thoreau",
+    "quote": "Success usually comes to those who are too busy to be looking for it.",
+    "date": "1854"
+  },
+  {
+    "id": 117,
+    "author": "Buddha",
+    "quote": "Do not dwell in the past, do not dream of the future, concentrate the mind on the present moment.",
+    "date": "Unknown"
+  },
+  {
+    "id": 118,
+    "author": "Rumi",
+    "quote": "The wound is the place where the Light enters you.",
+    "date": "Unknown"
+  },
+  {
+    "id": 119,
+    "author": "Albert Einstein",
+    "quote": "Logic will get you from A to Z; imagination will get you everywhere.",
+    "date": "Unknown"
+  },
+  {
+    "id": 120,
+    "author": "Jane Austen",
+    "quote": "There is nothing I would not do for those who are really my friends. I have no notion of loving people by halves, it is not my nature.",
+    "date": "Unknown"
+  },
+  {
+    "id": 121,
+    "author": "Abraham Lincoln",
+    "quote": "I'm a success today because I had a friend who believed in me and I didn't have the heart to let him down.",
+    "date": "Unknown"
+  },
+  {
+    "id": 122,
+    "author": "Nelson Mandela",
+    "quote": "Education is the most powerful weapon which you can use to change the world.",
+    "date": "1994"
+  },
+  {
+    "id": 123,
+    "author": "Maya Angelou",
+    "quote": "You can't use up creativity. The more you use, the more you have.",
+    "date": "Unknown"
+  },
+  {
+    "id": 124,
+    "author": "Ralph Waldo Emerson",
+    "quote": "Do not go where the path may lead, go instead where there is no path and leave a trail.",
+    "date": "Unknown"
+  },
+  {
+    "id": 125,
+    "author": "Audre Lorde",
+    "quote": "When I dare to be powerful, to use my strength in the service of my vision, then it becomes less and less important whether I am afraid.",
+    "date": "1979"
+  },
+  {
+    "id": 126,
+    "author": "Ralph Waldo Emerson",
+    "quote": "To be yourself in a world that is constantly trying to make you something else is the greatest accomplishment.",
+    "date": "Unknown"
+  },
+  {
+    "id": 127,
+    "author": "Winston Churchill",
+    "quote": "Attitude is a little thing that makes a big difference.",
+    "date": "Unknown"
+  },
+  {
+    "id": 128,
+    "author": "Confucius",
+    "quote": "Our greatest glory is not in never falling, but in rising every time we fall.",
+    "date": "Unknown"
+  },
+  {
+    "id": 129,
+    "author": "Maya Angelou",
+    "quote": "I've learned that people will forget what you said, people will forget what you did, but people will never forget how you made them feel.",
+    "date": "Unknown"
+  },
+  {
+    "id": 130,
+    "author": "Steve Jobs",
+    "quote": "Your work is going to fill a large part of your life, and the only way to be truly satisfied is to do what you believe is great work. And the only way to do great work is to love what you do. If you haven't found it yet, keep looking. Don't settle. As with all matters of the heart, you'll know when you find it.",
+    "date": "2005"
+  },
+  {
+    "id": 131,
+    "author": "Maya Angelou",
+    "quote": "There is no greater agony than bearing an untold story inside you.",
+    "date": "1969"
+  },
+  {
+    "id": 132,
+    "author": "Albert Camus",
+    "quote": "In the depth of winter, I finally learned that within me there lay an invincible summer.",
+    "date": "1942"
+  },
+  {
+    "id": 133,
+    "author": "J.R.R. Tolkien",
+    "quote": "Not all those who wander are lost.",
+    "date": "1954"
+  },
+  {
+    "id": 134,
+    "author": "Anne Frank",
+    "quote": "Think of all the beauty still left around you and be happy.",
+    "date": "1944"
+  },
+  {
+    "id": 135,
+    "author": "Albert Einstein",
+    "quote": "The world as we have created it is a process of our thinking. It cannot be changed without changing our thinking.",
+    "date": "1946"
+  },
+  {
+    "id": 136,
+    "author": "Mother Teresa",
+    "quote": "If you judge people, you have no time to love them.",
+    "date": "Unknown"
+  },
+  {
+    "id": 137,
+    "author": "Haruki Murakami",
+    "quote": "And once the storm is over, you won’t remember how you made it through, how you managed to survive. You won’t even be sure, whether the storm is really over. But one thing is certain. When you come out of the storm, you won’t be the same person who walked in. That’s what this storm’s all about.",
+    "date": "2005"
+  },
+  {
+    "id": 138,
+    "author": "Friedrich Nietzsche",
+    "quote": "That which does not kill us makes us stronger.",
+    "date": "1888"
+  },
+  {
+    "id": 139,
+    "author": "Helen Keller",
+    "quote": "Life is either a daring adventure or nothing at all.",
+    "date": "Unknown"
+  },
+  {
+    "id": 140,
+    "author": "Maya Angelou",
+    "quote": "I can be changed by what happens to me. But I refuse to be reduced by it.",
+    "date": "1979"
+  },
+  {
+    "id": 141,
+    "author": "Marcus Aurelius",
+    "quote": "Very little is needed to make a happy life; it is all within yourself, in your way of thinking.",
+    "date": "180"
+  },
+  {
+    "id": 142,
+    "author": "Lao Tzu",
+    "quote": "The journey of a thousand miles begins with one step.",
+    "date": "Unknown"
+  },
+  {
+    "id": 143,
+    "author": "Rabindranath Tagore",
+    "quote": "Don't limit a child to your own learning, for he was born in another time.",
+    "date": "Unknown"
+  },
+  {
+    "id": 144,
+    "author": "Socrates",
+    "quote": "The only true wisdom is in knowing you know nothing.",
+    "date": "Unknown"
+  },
+  {
+    "id": 145,
+    "author": "Maya Angelou",
+    "quote": "Courage is the most important of all the virtues because without courage, you can't practice any other virtue consistently.",
+    "date": "2000"
+  },
+  {
+    "id": 146,
+    "author": "Albert Einstein",
+    "quote": "Imagination is more important than knowledge.",
+    "date": "1929"
+  },
+  {
+    "id": 147,
+    "author": "Oscar Wilde",
+    "quote": "Be yourself; everyone else is already taken.",
+    "date": "1895"
+  },
+  {
+    "id": 148,
+    "author": "Vincent Van Gogh",
+    "quote": "I am seeking, I am striving, I am in it with all my heart.",
+    "date": "1885"
+  },
+  {
+    "id": 149,
+    "author": "Mark Twain",
+    "quote": "The two most important days in your life are the day you are born and the day you find out why.",
+    "date": "Unknown"
+  },
+  {
+    "id": 150,
+    "author": "Dr. Seuss",
+    "quote": "Don't cry because it's over, smile because it happened.",
+    "date": "Unknown"
+  },
+
+  {
+    "id": 151,
+    "author": "C.S. Lewis",
+    "quote": "You can never get a cup of tea large enough or a book long enough to suit me.",
+    "date": "1956"
+  },
+
+  {
+    "id": 152,
+    "author": "Kahlil Gibran",
+    "quote": "Out of suffering have emerged the strongest souls; the most massive characters are seared with scars.",
+    "date": "Unknown"
+  },
+  {
+    "id": 153,
+    "author": "Ralph Waldo Emerson",
+    "quote": "The only way to have a friend is to be one.",
+    "date": "1841"
+  },
+  {
+    "id": 154,
+    "author": "George Eliot",
+    "quote": "It is never too late to be what you might have been.",
+    "date": "1865"
+  },
+  {
+    "id": 155,
+    "author": "Lao Tzu",
+    "quote": "The journey of a thousand miles begins with one step.",
+    "date": "Unknown"
+  },
+  {
+    "id": 156,
+    "author": "Maya Angelou",
+    "quote": "I've learned that people will forget what you said, people will forget what you did, but people will never forget how you made them feel.",
+    "date": "Unknown"
+  },
+  {
+    "id": 157,
+    "author": "Oscar Wilde",
+    "quote": "To live is the rarest thing in the world. Most people exist, that is all.",
+    "date": "1895"
+  },
+  {
+    "id": 158,
+    "author": "Haruki Murakami",
+    "quote": "Pain is inevitable. Suffering is optional.",
+    "date": "2000"
+  },
+  {
+    "id": 159,
+    "author": "Martin Luther King Jr.",
+    "quote": "Faith is taking the first step even when you don't see the whole staircase.",
+    "date": "1963"
+  },
+  {
+    "id": 160,
+    "author": "Maya Angelou",
+    "quote": "There is no greater agony than bearing an untold story inside you.",
+    "date": "1969"
+  },
+  {
+    "id": 161,
+    "author": "Vincent Van Gogh",
+    "quote": "I am seeking, I am striving, I am in it with all my heart.",
+    "date": "1888"
+  },
+  {
+    "id": 162,
+    "author": "Albert Camus",
+    "quote": "In the depth of winter, I finally learned that within me there lay an invincible summer.",
+    "date": "1942"
+  },
+  {
+    "id": 163,
+    "author": "J.R.R. Tolkien",
+    "quote": "Not all those who wander are lost.",
+    "date": "1954"
+  },
+  {
+    "id": 164,
+    "author": "Anne Frank",
+    "quote": "Think of all the beauty still left around you and be happy.",
+    "date": "1944"
+  },
+  {
+    "id": 165,
+    "author": "Albert Einstein",
+    "quote": "The world as we have created it is a process of our thinking. It cannot be changed without changing our thinking.",
+    "date": "1946"
+  },
+  {
+    "id": 166,
+    "author": "Mother Teresa",
+    "quote": "If you judge people, you have no time to love them.",
+    "date": "Unknown"
+  },
+  {
+    "id": 167,
+    "author": "Haruki Murakami",
+    "quote": "And once the storm is over, you won’t remember how you made it through, how you managed to survive. You won’t even be sure, whether the storm is really over. But one thing is certain. When you come out of the storm, you won’t be the same person who walked in. That’s what this storm’s all about.",
+    "date": "2005"
+  },
+  {
+    "id": 168,
+    "author": "Friedrich Nietzsche",
+    "quote": "That which does not kill us makes us stronger.",
+    "date": "1888"
+  },
+  {
+    "id": 169,
+    "author": "Helen Keller",
+    "quote": "Life is either a daring adventure or nothing at all.",
+    "date": "Unknown"
+  },
+  {
+    "id": 170,
+    "author": "Maya Angelou",
+    "quote": "I can be changed by what happens to me. But I refuse to be reduced by it.",
+    "date": "1979"
+  },
+  {
+    "id": 171,
+    "author": "Marcus Aurelius",
+    "quote": "Very little is needed to make a happy life; it is all within yourself, in your way of thinking.",
+    "date": "180"
+  },
+  {
+    "id": 172,
+    "author": "Lao Tzu",
+    "quote": "The journey of a thousand miles begins with one step.",
+    "date": "Unknown"
+  },
+  {
+    "id": 173,
+    "author": "Rabindranath Tagore",
+    "quote": "Don't limit a child to your own learning, for he was born in another time.",
+    "date": "Unknown"
+  },
+  {
+    "id": 174,
+    "author": "Socrates",
+    "quote": "The only true wisdom is in knowing you know nothing.",
+    "date": "Unknown"
+  },
+  {
+    "id": 175,
+    "author": "Maya Angelou",
+    "quote": "Courage is the most important of all the virtues because without courage, you can't practice any other virtue consistently.",
+    "date": "2000"
+  },
+  {
+    "id": 176,
+    "author": "Albert Einstein",
+    "quote": "Imagination is more important than knowledge.",
+    "date": "1929"
+  },
+  {
+    "id": 177,
+    "author": "Oscar Wilde",
+    "quote": "Be yourself; everyone else is already taken.",
+    "date": "1895"
+  },
+  {
+    "id": 178,
+    "author": "Vincent Van Gogh",
+    "quote": "I am seeking, I am striving, I am in it with all my heart.",
+    "date": "1885"
+  },
+  {
+    "id": 179,
+    "author": "Mark Twain",
+    "quote": "The two most important days in your life are the day you are born and the day you find out why.",
+    "date": "Unknown"
+  },
+  {
+    "id": 180,
+    "author": "Dr. Seuss",
+    "quote": "Don't cry because it's over, smile because it happened.",
+    "date": "Unknown"
+  },
+  {
+    "id": 181,
+    "author": "C.S. Lewis",
+    "quote": "You can never get a cup of tea large enough or a book long enough to suit me.",
+    "date": "1956"
+  },
+  {
+    "id": 182,
+    "author": "Kahlil Gibran",
+    "quote": "Out of suffering have emerged the strongest souls; the most massive characters are seared with scars.",
+    "date": "Unknown"
+  },
+  {
+    "id": 183,
+    "author": "Ralph Waldo Emerson",
+    "quote": "The only way to have a friend is to be one.",
+    "date": "1841"
+  },
+  {
+    "id": 184,
+    "author": "George Eliot",
+    "quote": "It is never too late to be what you might have been.",
+    "date": "1865"
+  },
+  {
+    "id": 185,
+    "author": "Lao Tzu",
+    "quote": "The journey of a thousand miles begins with one step.",
+    "date": "Unknown"
+  },
+  {
+    "id": 186,
+    "author": "Maya Angelou",
+    "quote": "I've learned that people will forget what you said, people will forget what you did, but people will never forget how you made them feel.",
+    "date": "Unknown"
+  },
+  {
+    "id": 187,
+    "author": "Oscar Wilde",
+    "quote": "To live is the rarest thing in the world. Most people exist, that is all.",
+    "date": "1895"
+  },
+  {
+    "id": 188,
+    "author": "Haruki Murakami",
+    "quote": "Pain is inevitable. Suffering is optional.",
+    "date": "2000"
+  },
+  {
+    "id": 189,
+    "author": "Martin Luther King Jr.",
+    "quote": "Faith is taking the first step even when you don't see the whole staircase.",
+    "date": "1963"
+  },
+  {
+    "id": 190,
+    "author": "Maya Angelou",
+    "quote": "There is no greater agony than bearing an untold story inside you.",
+    "date": "1969"
+  },
+  {
+    "id": 191,
+    "author": "Vincent Van Gogh",
+    "quote": "I am seeking, I am striving, I am in it with all my heart.",
+    "date": "1888"
+  },
+  {
+    "id": 192,
+    "author": "Albert Camus",
+    "quote": "In the depth of winter, I finally learned that within me there lay an invincible summer.",
+    "date": "1942"
+  },
+  {
+    "id": 193,
+    "author": "J.R.R. Tolkien",
+    "quote": "Not all those who wander are lost.",
+    "date": "1954"
+  },
+  {
+    "id": 194,
+    "author": "Anne Frank",
+    "quote": "Think of all the beauty still left around you and be happy.",
+    "date": "1944"
+  },
+  {
+    "id": 195,
+    "author": "Albert Einstein",
+    "quote": "The world as we have created it is a process of our thinking. It cannot be changed without changing our thinking.",
+    "date": "1946"
+  },
+  {
+    "id": 196,
+    "author": "Mother Teresa",
+    "quote": "If you judge people, you have no time to love them.",
+    "date": "Unknown"
+  },
+  {
+    "id": 197,
+    "author": "Haruki Murakami",
+    "quote": "And once the storm is over, you won’t remember how you made it through, how you managed to survive. You won’t even be sure, whether the storm is really over. But one thing is certain. When you come out of the storm, you won’t be the same person who walked in. That’s what this storm’s all about.",
+    "date": "2005"
+  },
+  {
+    "id": 198,
+    "author": "Friedrich Nietzsche",
+    "quote": "That which does not kill us makes us stronger.",
+    "date": "1888"
+  },
+  {
+    "id": 199,
+    "author": "Helen Keller",
+    "quote": "Life is either a daring adventure or nothing at all.",
+    "date": "Unknown"
+  },
+  {
+    "id": 200,
+    "author": "Maya Angelou",
+    "quote": "I can be changed by what happens to me. But I refuse to be reduced by it.",
+    "date": "1979"
+  },
+  {
+    "id": 201,
+    "author": "Marcus Aurelius",
+    "quote": "Very little is needed to make a happy life; it is all within yourself, in your way of thinking.",
+    "date": "180"
+  },
+  {
+    "id": 202,
+    "author": "Lao Tzu",
+    "quote": "The journey of a thousand miles begins with one step.",
+    "date": "Unknown"
+  },
+  {
+    "id": 203,
+    "author": "Rabindranath Tagore",
+    "quote": "Don't limit a child to your own learning, for he was born in another time.",
+    "date": "Unknown"
+  },
+  {
+    "id": 204,
+    "author": "Socrates",
+    "quote": "The only true wisdom is in knowing you know nothing.",
+    "date": "Unknown"
+  },
+  {
+    "id": 205,
+    "author": "Maya Angelou",
+    "quote": "Courage is the most important of all the virtues because without courage, you can't practice any other virtue consistently.",
+    "date": "2000"
+  },
+  {
+    "id": 206,
+    "author": "Albert Einstein",
+    "quote": "Imagination is more important than knowledge.",
+    "date": "1929"
+  },
+  {
+    "id": 207,
+    "author": "Oscar Wilde",
+    "quote": "Be yourself; everyone else is already taken.",
+    "date": "1895"
+  },
+  {
+    "id": 208,
+    "author": "Vincent Van Gogh",
+    "quote": "I am seeking, I am striving, I am in it with all my heart.",
+    "date": "1885"
+  },
+  {
+    "id": 209,
+    "author": "Mark Twain",
+    "quote": "The two most important days in your life are the day you are born and the day you find out why.",
+    "date": "Unknown"
+  },
+  {
+    "id": 210,
+    "author": "Dr. Seuss",
+    "quote": "Don't cry because it's over, smile because it happened.",
+    "date": "Unknown"
+  },
+  {
+    "id": 211,
+    "author": "C.S. Lewis",
+    "quote": "You can never get a cup of tea large enough or a book long enough to suit me.",
+    "date": "1956"
+  },
+  {
+    "id": 212,
+    "author": "Kahlil Gibran",
+    "quote": "Out of suffering have emerged the strongest souls; the most massive characters are seared with scars.",
+    "date": "Unknown"
+  },
+  {
+    "id": 213,
+    "author": "Ralph Waldo Emerson",
+    "quote": "The only way to have a friend is to be one.",
+    "date": "1841"
+  },
+  {
+    "id": 214,
+    "author": "George Eliot",
+    "quote": "It is never too late to be what you might have been.",
+    "date": "1865"
+  },
+  {
+    "id": 215,
+    "author": "Lao Tzu",
+    "quote": "The journey of a thousand miles begins with one step.",
+    "date": "Unknown"
+  },
+  {
+    "id": 216,
+    "author": "Maya Angelou",
+    "quote": "I've learned that people will forget what you said, people will forget what you did, but people will never forget how you made them feel.",
+    "date": "Unknown"
+  },
+  {
+    "id": 217,
+    "author": "Oscar Wilde",
+    "quote": "To live is the rarest thing in the world. Most people exist, that is all.",
+    "date": "1895"
+  },
+  {
+    "id": 218,
+    "author": "Haruki Murakami",
+    "quote": "Pain is inevitable. Suffering is optional.",
+    "date": "2000"
+  },
+  {
+    "id": 219,
+    "author": "Martin Luther King Jr.",
+    "quote": "Faith is taking the first step even when you don't see the whole staircase.",
+    "date": "1963"
+  },
+  {
+    "id": 220,
+    "author": "Maya Angelou",
+    "quote": "There is no greater agony than bearing an untold story inside you.",
+    "date": "1969"
+  },
+  {
+    "id": 221,
+    "author": "Vincent Van Gogh",
+    "quote": "I am seeking, I am striving, I am in it with all my heart.",
+    "date": "1888"
+  },
+  {
+    "id": 222,
+    "author": "Albert Camus",
+    "quote": "In the depth of winter, I finally learned that within me there lay an invincible summer.",
+    "date": "1942"
+  },
+  {
+    "id": 223,
+    "author": "J.R.R. Tolkien",
+    "quote": "Not all those who wander are lost.",
+    "date": "1954"
+  },
+  {
+    "id": 224,
+    "author": "Anne Frank",
+    "quote": "Think of all the beauty still left around you and be happy.",
+    "date": "1944"
+  },
+  {
+    "id": 225,
+    "author": "Albert Einstein",
+    "quote": "The world as we have created it is a process of our thinking. It cannot be changed without changing our thinking.",
+    "date": "1946"
+  },
+  {
+    "id": 226,
+    "author": "Mother Teresa",
+    "quote": "If you judge people, you have no time to love them.",
+    "date": "Unknown"
+  },
+  {
+    "id": 227,
+    "author": "Haruki Murakami",
+    "quote": "And once the storm is over, you won’t remember how you made it through, how you managed to survive. You won’t even be sure, whether the storm is really over. But one thing is certain. When you come out of the storm, you won’t be the same person who walked in. That’s what this storm’s all about.",
+    "date": "2005"
+  },
+  {
+    "id": 228,
+    "author": "Friedrich Nietzsche",
+    "quote": "That which does not kill us makes us stronger.",
+    "date": "1888"
+  },
+  {
+    "id": 229,
+    "author": "Helen Keller",
+    "quote": "Life is either a daring adventure or nothing at all.",
+    "date": "Unknown"
+  },
+  {
+    "id": 230,
+    "author": "Maya Angelou",
+    "quote": "I can be changed by what happens to me. But I refuse to be reduced by it.",
+    "date": "1979"
+  },
+  {
+    "id": 231,
+    "author": "Marcus Aurelius",
+    "quote": "Very little is needed to make a happy life; it is all within yourself, in your way of thinking.",
+    "date": "180"
+  },
+  {
+    "id": 232,
+    "author": "Lao Tzu",
+    "quote": "The journey of a thousand miles begins with one step.",
+    "date": "Unknown"
+  },
+  {
+    "id": 233,
+    "author": "Rabindranath Tagore",
+    "quote": "Don't limit a child to your own learning, for he was born in another time.",
+    "date": "Unknown"
+  },
+  {
+    "id": 234,
+    "author": "Socrates",
+    "quote": "The only true wisdom is in knowing you know nothing.",
+    "date": "Unknown"
+  },
+  {
+    "id": 235,
+    "author": "Maya Angelou",
+    "quote": "Courage is the most important of all the virtues because without courage, you can't practice any other virtue consistently.",
+    "date": "2000"
+  },
+  {
+    "id": 236,
+    "author": "Albert Einstein",
+    "quote": "Imagination is more important than knowledge.",
+    "date": "1929"
+  },
+  {
+    "id": 237,
+    "author": "Oscar Wilde",
+    "quote": "Be yourself; everyone else is already taken.",
+    "date": "1895"
+  },
+  {
+    "id": 238,
+    "author": "Vincent Van Gogh",
+    "quote": "I am seeking, I am striving, I am in it with all my heart.",
+    "date": "1885"
+  },
+  {
+    "id": 239,
+    "author": "Mark Twain",
+    "quote": "The two most important days in your life are the day you are born and the day you find out why.",
+    "date": "Unknown"
+  },
+  {
+    "id": 240,
+    "author": "Albert Schweitzer",
+    "quote": "Success is not the key to happiness. Happiness is the key to success. If you love what you are doing, you will be successful.",
+    "date": "Unknown"
+  },
+  {
+    "id": 241,
+    "author": "Steve Jobs",
+    "quote": "Your work is going to fill a large part of your life, and the only way to be truly satisfied is to do what you believe is great work. And the only way to do great work is to love what you do. If you haven't found it yet, keep looking. Don't settle. As with all matters of the heart, you'll know when you find it.",
+    "date": "2005"
+  },
+  {
+    "id": 242,
+    "author": "Maya Angelou",
+    "quote": "I can be changed by what happens to me. But I refuse to be reduced by it.",
+    "date": "1979"
+  },
+  {
+    "id": 243,
+    "author": "Marcus Aurelius",
+    "quote": "Very little is needed to make a happy life; it is all within yourself, in your way of thinking.",
+    "date": "180"
+  },
+  {
+    "id": 244,
+    "author": "Lao Tzu",
+    "quote": "The journey of a thousand miles begins with one step.",
+    "date": "Unknown"
+  },
+  {
+    "id": 245,
+    "author": "Rabindranath Tagore",
+    "quote": "Don't limit a child to your own learning, for he was born in another time.",
+    "date": "Unknown"
+  },
+  {
+    "id": 246,
+    "author": "Socrates",
+    "quote": "The only true wisdom is in knowing you know nothing.",
+    "date": "Unknown"
+  },
+  {
+    "id": 247,
+    "author": "Maya Angelou",
+    "quote": "Courage is the most important of all the virtues because without courage, you can't practice any other virtue consistently.",
+    "date": "2000"
+  },
+  {
+    "id": 248,
+    "author": "Albert Einstein",
+    "quote": "Imagination is more important than knowledge.",
+    "date": "1929"
+  },
+  {
+    "id": 249,
+    "author": "Oscar Wilde",
+    "quote": "Be yourself; everyone else is already taken.",
+    "date": "1895"
+  },
+  {
+    "id": 250,
+    "author": "Vincent Van Gogh",
+    "quote": "I am seeking, I am striving, I am in it with all my heart.",
+    "date": "1885"
+  },
+  {
+    "id": 251,
+    "author": "Mark Twain",
+    "quote": "The two most important days in your life are the day you are born and the day you find out why.",
+    "date": "Unknown"
+  },
+  {
+    "id": 252,
+    "author": "Albert Schweitzer",
+    "quote": "Success is not the key to happiness. Happiness is the key to success. If you love what you are doing, you will be successful.",
+    "date": "Unknown"
+  },
+  {
+    "id": 253,
+    "author": "Steve Jobs",
+    "quote": "Your work is going to fill a large part of your life, and the only way to be truly satisfied is to do what you believe is great work. And the only way to do great work is to love what you do. If you haven't found it yet, keep looking. Don't settle. As with all matters of the heart, you'll know when you find it.",
+    "date": "2005"
+  },
+  {
+    "id": 254,
+    "author": "Maya Angelou",
+    "quote": "I can be changed by what happens to me. But I refuse to be reduced by it.",
+    "date": "1979"
+  },
+  {
+    "id": 255,
+    "author": "Marcus Aurelius",
+    "quote": "Very little is needed to make a happy life; it is all within yourself, in your way of thinking.",
+    "date": "180"
+  },
+  {
+    "id": 256,
+    "author": "Lao Tzu",
+    "quote": "The journey of a thousand miles begins with one step.",
+    "date": "Unknown"
+  },
+  {
+    "id": 257,
+    "author": "Rabindranath Tagore",
+    "quote": "Don't limit a child to your own learning, for he was born in another time.",
+    "date": "Unknown"
+  },
+  {
+    "id": 258,
+    "author": "Socrates",
+    "quote": "The only true wisdom is in knowing you know nothing.",
+    "date": "Unknown"
+  },
+  {
+    "id": 259,
+    "author": "Maya Angelou",
+    "quote": "Courage is the most important of all the virtues because without courage, you can't practice any other virtue consistently.",
+    "date": "2000"
+  },
+  {
+    "id": 260,
+    "author": "Albert Einstein",
+    "quote": "Imagination is more important than knowledge.",
+    "date": "1929"
+  },
+  {
+    "id": 261,
+    "author": "Oscar Wilde",
+    "quote": "Be yourself; everyone else is already taken.",
+    "date": "1895"
+  },
+  {
+    "id": 262,
+    "author": "Vincent Van Gogh",
+    "quote": "I am seeking, I am striving, I am in it with all my heart.",
+    "date": "1885"
+  },
+  {
+    "id": 263,
+    "author": "Mark Twain",
+    "quote": "The two most important days in your life are the day you are born and the day you find out why.",
+    "date": "Unknown"
+  },
+  {
+    "id": 264,
+    "author": "Albert Schweitzer",
+    "quote": "Success is not the key to happiness. Happiness is the key to success. If you love what you are doing, you will be successful.",
+    "date": "Unknown"
+  },
+  {
+    "id": 265,
+    "author": "Steve Jobs",
+    "quote": "Your work is going to fill a large part of your life, and the only way to be truly satisfied is to do what you believe is great work. And the only way to do great work is to love what you do. If you haven't found it yet, keep looking. Don't settle. As with all matters of the heart, you'll know when you find it.",
+    "date": "2005"
+  },
+  {
+    "id": 266,
+    "author": "Maya Angelou",
+    "quote": "I can be changed by what happens to me. But I refuse to be reduced by it.",
+    "date": "1979"
+  },
+  {
+    "id": 267,
+    "author": "Marcus Aurelius",
+    "quote": "Very little is needed to make a happy life; it is all within yourself, in your way of thinking.",
+    "date": "180"
+  },
+  {
+    "id": 268,
+    "author": "Lao Tzu",
+    "quote": "The journey of a thousand miles begins with one step.",
+    "date": "Unknown"
+  },
+  {
+    "id": 269,
+    "author": "Rabindranath Tagore",
+    "quote": "Don't limit a child to your own learning, for he was born in another time.",
+    "date": "Unknown"
+  },
+  {
+    "id": 270,
+    "author": "Socrates",
+    "quote": "The only true wisdom is in knowing you know nothing.",
+    "date": "Unknown"
+  },
+  {
+    "id": 271,
+    "author": "Maya Angelou",
+    "quote": "Courage is the most important of all the virtues because without courage, you can't practice any other virtue consistently.",
+    "date": "2000"
+  },
+  {
+    "id": 272,
+    "author": "Albert Einstein",
+    "quote": "Imagination is more important than knowledge.",
+    "date": "1929"
+  },
+  {
+    "id": 273,
+    "author": "Oscar Wilde",
+    "quote": "Be yourself; everyone else is already taken.",
+    "date": "1895"
+  },
+  {
+    "id": 274,
+    "author": "Vincent Van Gogh",
+    "quote": "I am seeking, I am striving, I am in it with all my heart.",
+    "date": "1885"
+  },
+  {
+    "id": 275,
+    "author": "Mark Twain",
+    "quote": "The two most important days in your life are the day you are born and the day you find out why.",
+    "date": "Unknown"
+  },
+  {
+    "id": 276,
+    "author": "Albert Schweitzer",
+    "quote": "Success is not the key to happiness. Happiness is the key to success. If you love what you are doing, you will be successful.",
+    "date": "Unknown"
+  },
+  {
+    "id": 277,
+    "author": "Steve Jobs",
+    "quote": "Your work is going to fill a large part of your life, and the only way to be truly satisfied is to do what you believe is great work. And the only way to do great work is to love what you do. If you haven't found it yet, keep looking. Don't settle. As with all matters of the heart, you'll know when you find it.",
+    "date": "2005"
+  },
+  {
+    "id": 278,
+    "author": "Maya Angelou",
+    "quote": "I can be changed by what happens to me. But I refuse to be reduced by it.",
+    "date": "1979"
+  },
+  {
+    "id": 279,
+    "author": "Marcus Aurelius",
+    "quote": "Very little is needed to make a happy life; it is all within yourself, in your way of thinking.",
+    "date": "180"
+  },
+  {
+    "id": 280,
+    "author": "Lao Tzu",
+    "quote": "The journey of a thousand miles begins with one step.",
+    "date": "Unknown"
+  },
+  {
+    "id": 281,
+    "author": "Rabindranath Tagore",
+    "quote": "Don't limit a child to your own learning, for he was born in another time.",
+    "date": "Unknown"
+  },
+  {
+    "id": 282,
+    "author": "Socrates",
+    "quote": "The only true wisdom is in knowing you know nothing.",
+    "date": "Unknown"
+  },
+  {
+    "id": 283,
+    "author": "Maya Angelou",
+    "quote": "Courage is the most important of all the virtues because without courage, you can't practice any other virtue consistently.",
+    "date": "2000"
+  },
+  {
+    "id": 284,
+    "author": "Albert Einstein",
+    "quote": "Imagination is more important than knowledge.",
+    "date": "1929"
+  },
+  {
+    "id": 285,
+    "author": "Oscar Wilde",
+    "quote": "Be yourself; everyone else is already taken.",
+    "date": "1895"
+  },
+  {
+    "id": 286,
+    "author": "Vincent Van Gogh",
+    "quote": "I am seeking, I am striving, I am in it with all my heart.",
+    "date": "1885"
+  },
+  {
+    "id": 287,
+    "author": "Mark Twain",
+    "quote": "The two most important days in your life are the day you are born and the day you find out why.",
+    "date": "Unknown"
+  },
+  {
+    "id": 288,
+    "author": "Albert Schweitzer",
+    "quote": "Success is not the key to happiness. Happiness is the key to success. If you love what you are doing, you will be successful.",
+    "date": "Unknown"
+  },
+  {
+    "id": 289,
+    "author": "Steve Jobs",
+    "quote": "Your work is going to fill a large part of your life, and the only way to be truly satisfied is to do what you believe is great work. And the only way to do great work is to love what you do. If you haven't found it yet, keep looking. Don't settle. As with all matters of the heart, you'll know when you find it.",
+    "date": "2005"
+  },
+  {
+    "id": 290,
+    "author": "Maya Angelou",
+    "quote": "I can be changed by what happens to me. But I refuse to be reduced by it.",
+    "date": "1979"
+  },
+  {
+    "id": 291,
+    "author": "Marcus Aurelius",
+    "quote": "Very little is needed to make a happy life; it is all within yourself, in your way of thinking.",
+    "date": "180"
+  },
+  {
+    "id": 292,
+    "author": "Lao Tzu",
+    "quote": "The journey of a thousand miles begins with one step.",
+    "date": "Unknown"
+  },
+  {
+    "id": 293,
+    "author": "Rabindranath Tagore",
+    "quote": "Don't limit a child to your own learning, for he was born in another time.",
+    "date": "Unknown"
+  },
+  {
+    "id": 294,
+    "author": "Socrates",
+    "quote": "The only true wisdom is in knowing you know nothing.",
+    "date": "Unknown"
+  },
+  {
+    "id": 295,
+    "author": "Maya Angelou",
+    "quote": "Courage is the most important of all the virtues because without courage, you can't practice any other virtue consistently.",
+    "date": "2000"
+  },
+  {
+    "id": 296,
+    "author": "Albert Einstein",
+    "quote": "Imagination is more important than knowledge.",
+    "date": "1929"
+  },
+  {
+    "id": 297,
+    "author": "Oscar Wilde",
+    "quote": "Be yourself; everyone else is already taken.",
+    "date": "1895"
+  },
+  {
+    "id": 298,
+    "author": "Vincent Van Gogh",
+    "quote": "I am seeking, I am striving, I am in it with all my heart.",
+    "date": "1885"
+  },
+  {
+    "id": 299,
+    "author": "Mark Twain",
+    "quote": "The two most important days in your life are the day you are born and the day you find out why.",
+    "date": "Unknown"
+  },
+  {
+    "id": 300,
+    "author": "Albert Schweitzer",
+    "quote": "Success is not the key to happiness. Happiness is the key to success. If you love what you are doing, you will be successful.",
+    "date": "Unknown"
+  },
+  {
+    "id": 301,
+    "author": "Steve Jobs",
+    "quote": "Your work is going to fill a large part of your life, and the only way to be truly satisfied is to do what you believe is great work. And the only way to do great work is to love what you do. If you haven't found it yet, keep looking. Don't settle. As with all matters of the heart, you'll know when you find it.",
+    "date": "2005"
+  },
+  {
+    "id": 302,
+    "author": "Maya Angelou",
+    "quote": "I can be changed by what happens to me. But I refuse to be reduced by it.",
+    "date": "1979"
+  },
+  {
+    "id": 303,
+    "author": "Marcus Aurelius",
+    "quote": "Very little is needed to make a happy life; it is all within yourself, in your way of thinking.",
+    "date": "180"
+  },
+  {
+    "id": 304,
+    "author": "Lao Tzu",
+    "quote": "The journey of a thousand miles begins with one step.",
+    "date": "Unknown"
+  },
+  {
+    "id": 305,
+    "author": "Rabindranath Tagore",
+    "quote": "Don't limit a child to your own learning, for he was born in another time.",
+    "date": "Unknown"
+  },
+  {
+    "id": 306,
+    "author": "Socrates",
+    "quote": "The only true wisdom is in knowing you know nothing.",
+    "date": "Unknown"
+  },
+  {
+    "id": 307,
+    "author": "Maya Angelou",
+    "quote": "Courage is the most important of all the virtues because without courage, you can't practice any other virtue consistently.",
+    "date": "2000"
+  },
+  {
+    "id": 308,
+    "author": "Albert Einstein",
+    "quote": "Imagination is more important than knowledge.",
+    "date": "1929"
+  },
+  {
+    "id": 309,
+    "author": "Oscar Wilde",
+    "quote": "Be yourself; everyone else is already taken.",
+    "date": "1895"
+  },
+  {
+    "id": 310,
+    "author": "Vincent Van Gogh",
+    "quote": "I am seeking, I am striving, I am in it with all my heart.",
+    "date": "1885"
+  },
+  {
+    "id": 311,
+    "author": "Mark Twain",
+    "quote": "The two most important days in your life are the day you are born and the day you find out why.",
+    "date": "Unknown"
+  },
+  {
+    "id": 312,
+    "author": "Albert Schweitzer",
+    "quote": "Success is not the key to happiness. Happiness is the key to success. If you love what you are doing, you will be successful.",
+    "date": "Unknown"
+  },
+  {
+    "id": 313,
+    "author": "Steve Jobs",
+    "quote": "Your work is going to fill a large part of your life, and the only way to be truly satisfied is to do what you believe is great work. And the only way to do great work is to love what you do. If you haven't found it yet, keep looking. Don't settle. As with all matters of the heart, you'll know when you find it.",
+    "date": "2005"
+  },
+  {
+    "id": 314,
+    "author": "Maya Angelou",
+    "quote": "I can be changed by what happens to me. But I refuse to be reduced by it.",
+    "date": "1979"
+  },
+  {
+    "id": 315,
+    "author": "Marcus Aurelius",
+    "quote": "Very little is needed to make a happy life; it is all within yourself, in your way of thinking.",
+    "date": "180"
+  },
+  {
+    "id": 316,
+    "author": "Lao Tzu",
+    "quote": "The journey of a thousand miles begins with one step.",
+    "date": "Unknown"
+  },
+  {
+    "id": 317,
+    "author": "Rabindranath Tagore",
+    "quote": "Don't limit a child to your own learning, for he was born in another time.",
+    "date": "Unknown"
+  },
+  {
+    "id": 318,
+    "author": "Socrates",
+    "quote": "The only true wisdom is in knowing you know nothing.",
+    "date": "Unknown"
+  },
+  {
+    "id": 319,
+    "author": "Maya Angelou",
+    "quote": "Courage is the most important of all the virtues because without courage, you can't practice any other virtue consistently.",
+    "date": "2000"
+  },
+  {
+    "id": 320,
+    "author": "Albert Einstein",
+    "quote": "Imagination is more important than knowledge.",
+    "date": "1929"
+  },
+  {
+    "id": 321,
+    "author": "Oscar Wilde",
+    "quote": "Be yourself; everyone else is already taken.",
+    "date": "1895"
+  },
+  {
+    "id": 322,
+    "author": "Vincent Van Gogh",
+    "quote": "I am seeking, I am striving, I am in it with all my heart.",
+    "date": "1885"
+  },
+  {
+    "id": 323,
+    "author": "Mark Twain",
+    "quote": "The two most important days in your life are the day you are born and the day you find out why.",
+    "date": "Unknown"
+  },
+  {
+    "id": 324,
+    "author": "Albert Schweitzer",
+    "quote": "Success is not the key to happiness. Happiness is the key to success. If you love what you are doing, you will be successful.",
+    "date": "Unknown"
+  },
+  {
+    "id": 325,
+    "author": "Steve Jobs",
+    "quote": "Your work is going to fill a large part of your life, and the only way to be truly satisfied is to do what you believe is great work. And the only way to do great work is to love what you do. If you haven't found it yet, keep looking. Don't settle. As with all matters of the heart, you'll know when you find it.",
+    "date": "2005"
+  },
+  {
+    "id": 326,
+    "author": "Maya Angelou",
+    "quote": "I can be changed by what happens to me. But I refuse to be reduced by it.",
+    "date": "1979"
+  },
+  {
+    "id": 327,
+    "author": "Marcus Aurelius",
+    "quote": "Very little is needed to make a happy life; it is all within yourself, in your way of thinking.",
+    "date": "180"
+  },
+  {
+    "id": 328,
+    "author": "Lao Tzu",
+    "quote": "The journey of a thousand miles begins with one step.",
+    "date": "Unknown"
+  },
+  {
+    "id": 329,
+    "author": "Rabindranath Tagore",
+    "quote": "Don't limit a child to your own learning, for he was born in another time.",
+    "date": "Unknown"
+  },
+  {
+    "id": 330,
+    "author": "Socrates",
+    "quote": "The only true wisdom is in knowing you know nothing.",
+    "date": "Unknown"
+  },
+  {
+    "id": 331,
+    "author": "Maya Angelou",
+    "quote": "Courage is the most important of all the virtues because without courage, you can't practice any other virtue consistently.",
+    "date": "2000"
+  },
+  {
+    "id": 332,
+    "author": "Albert Einstein",
+    "quote": "Imagination is more important than knowledge.",
+    "date": "1929"
+  },
+  {
+    "id": 333,
+    "author": "Oscar Wilde",
+    "quote": "Be yourself; everyone else is already taken.",
+    "date": "1895"
+  },
+  {
+    "id": 334,
+    "author": "Vincent Van Gogh",
+    "quote": "I am seeking, I am striving, I am in it with all my heart.",
+    "date": "1885"
+  },
+  {
+    "id": 335,
+    "author": "Mark Twain",
+    "quote": "The two most important days in your life are the day you are born and the day you find out why.",
+    "date": "Unknown"
+  },
+  {
+    "id": 336,
+    "author": "Albert Schweitzer",
+    "quote": "Success is not the key to happiness. Happiness is the key to success. If you love what you are doing, you will be successful.",
+    "date": "Unknown"
+  },
+  {
+    "id": 337,
+    "author": "Steve Jobs",
+    "quote": "Your work is going to fill a large part of your life, and the only way to be truly satisfied is to do what you believe is great work. And the only way to do great work is to love what you do. If you haven't found it yet, keep looking. Don't settle. As with all matters of the heart, you'll know when you find it.",
+    "date": "2005"
+  },
+  {
+    "id": 338,
+    "author": "Maya Angelou",
+    "quote": "I can be changed by what happens to me. But I refuse to be reduced by it.",
+    "date": "1979"
+  },
+  {
+    "id": 339,
+    "author": "Marcus Aurelius",
+    "quote": "Very little is needed to make a happy life; it is all within yourself, in your way of thinking.",
+    "date": "180"
+  },
+  {
+    "id": 340,
+    "author": "Lao Tzu",
+    "quote": "The journey of a thousand miles begins with one step.",
+    "date": "Unknown"
+  },
+  {
+    "id": 341,
+    "author": "Rabindranath Tagore",
+    "quote": "Don't limit a child to your own learning, for he was born in another time.",
+    "date": "Unknown"
+  },
+  {
+    "id": 342,
+    "author": "Socrates",
+    "quote": "The only true wisdom is in knowing you know nothing.",
+    "date": "Unknown"
+  },
+  {
+    "id": 343,
+    "author": "Maya Angelou",
+    "quote": "Courage is the most important of all the virtues because without courage, you can't practice any other virtue consistently.",
+    "date": "2000"
+  },
+  {
+    "id": 344,
+    "author": "Albert Einstein",
+    "quote": "Imagination is more important than knowledge.",
+    "date": "1929"
+  },
+  {
+    "id": 345,
+    "author": "Oscar Wilde",
+    "quote": "Be yourself; everyone else is already taken.",
+    "date": "1895"
+  },
+  {
+    "id": 346,
+    "author": "Vincent Van Gogh",
+    "quote": "I am seeking, I am striving, I am in it with all my heart.",
+    "date": "1885"
+  },
+  {
+    "id": 347,
+    "author": "Mark Twain",
+    "quote": "The two most important days in your life are the day you are born and the day you find out why.",
+    "date": "Unknown"
+  },
+  {
+    "id": 348,
+    "author": "Albert Schweitzer",
+    "quote": "Success is not the key to happiness. Happiness is the key to success. If you love what you are doing, you will be successful.",
+    "date": "Unknown"
+  },
+  {
+    "id": 349,
+    "author": "Steve Jobs",
+    "quote": "Your work is going to fill a large part of your life, and the only way to be truly satisfied is to do what you believe is great work. And the only way to do great work is to love what you do. If you haven't found it yet, keep looking. Don't settle. As with all matters of the heart, you'll know when you find it.",
+    "date": "2005"
+  },
+  {
+    "id": 350,
+    "author": "Maya Angelou",
+    "quote": "I can be changed by what happens to me. But I refuse to be reduced by it.",
+    "date": "1979"
+  }
+]
