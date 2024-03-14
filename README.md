@@ -72,11 +72,11 @@ Run the server with :
 python -m uvicorn main:app --reload
 ```
 
-INFO:     Uvicorn running on http://127.0.0.1:PORT (Press CTRL+C to quit)
-INFO:     Started reloader process [16224] using WatchFiles
-INFO:     Started server process [13736]
-INFO:     Waiting for application startup.
-INFO:     Application startup complete.
+INFO:     Uvicorn running on http://127.0.0.1:PORT (Press CTRL+C to quit)<br>
+INFO:     Started reloader process [16224] using WatchFiles<br>
+INFO:     Started server process [13736]<br>
+INFO:     Waiting for application startup.<br>
+INFO:     Application startup complete.<br>
 
 <!-- ## 🔧 Running the tests <a name = "tests"></a>
 
