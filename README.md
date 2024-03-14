@@ -8,9 +8,9 @@
 <div align="center">
 
 [![Status](https://img.shields.io/badge/status-active-success.svg)]()
-[![GitHub Issues](https://img.shields.io/github/issues/kylelobo/The-Documentation-Compendium.svg)](https://github.com/kylelobo/The-Documentation-Compendium/issues)
-[![GitHub Pull Requests](https://img.shields.io/github/issues-pr/kylelobo/The-Documentation-Compendium.svg)](https://github.com/kylelobo/The-Documentation-Compendium/pulls)
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](/LICENSE)
+[![GitHub Issues](https://img.shields.io/github/issues/ilias-anouar/Random-quote-python-API)](https://github.com/ilias-anouar/Random-quote-python-API/issues)
+[![GitHub Pull Requests](https://img.shields.io/github/issues-pr/ilias-anouar/Random-quote-python-API)](https://github.com/ilias-anouar/Random-quote-python-API/pulls)
+[![GitHub License](https://img.shields.io/github/license/ilias-anouar/Random-quote-python-API)](/LICENSE)
 
 </div>
 
@@ -66,17 +66,17 @@ Clone This repository :
 git clone https://github.com/ilias-anouar/Random-quote-python-API.git
 ```
 
-Run the server with : 
+Run the server with :
 
 ```
 python -m uvicorn main:app --reload
 ```
 
-INFO:     Uvicorn running on http://127.0.0.1:PORT (Press CTRL+C to quit)<br>
-INFO:     Started reloader process [16224] using WatchFiles<br>
-INFO:     Started server process [13736]<br>
-INFO:     Waiting for application startup.<br>
-INFO:     Application startup complete.<br>
+INFO: Uvicorn running on http://127.0.0.1:PORT (Press CTRL+C to quit)<br>
+INFO: Started reloader process [16224] using WatchFiles<br>
+INFO: Started server process [13736]<br>
+INFO: Waiting for application startup.<br>
+INFO: Application startup complete.<br>
 
 <!-- ## 🔧 Running the tests <a name = "tests"></a>
 
