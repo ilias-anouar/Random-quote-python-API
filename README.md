@@ -44,6 +44,8 @@ To get start using this API you need just to install few packages
 
 You will need a `Python 3.8+` version .
 
+You will need a `Npm 8+` version .
+
 You will need to install fastapi package :
 
 ```
@@ -66,17 +68,16 @@ Clone This repository :
 git clone https://github.com/ilias-anouar/Random-quote-python-API.git
 ```
 
-Run the server with :
+Make the start script executable :
+```
+chmod +x start.sh
+```
+
+Run the script :
 
 ```
-python -m uvicorn main:app --reload
+./start.sh
 ```
-
-INFO: Uvicorn running on http://127.0.0.1:PORT (Press CTRL+C to quit)<br>
-INFO: Started reloader process [16224] using WatchFiles<br>
-INFO: Started server process [13736]<br>
-INFO: Waiting for application startup.<br>
-INFO: Application startup complete.<br>
 
 <!-- ## 🔧 Running the tests <a name = "tests"></a>
 
